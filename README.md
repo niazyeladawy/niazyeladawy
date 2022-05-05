@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/niazy-eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/niazy-eladawy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/niazy-eladawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niazy-eladawy/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/niazy.eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niazy.eladawy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niazy-eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niazy-eladawy" height="30" width="40" /></a>
+<a href="https://fb.com/niazy.eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niazy.eladawy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucut3x58ppvozfmqnnhfstzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucut3x58ppvozfmqnnhfstzq" height="30" width="40" /></a>
 <a href="https://discord.gg/niazy#9449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niazy#9449" height="30" width="40" /></a>
 </p>
