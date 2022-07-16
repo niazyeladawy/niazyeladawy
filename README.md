@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning redux toolkit with bookstore app**
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **Php**
 
 - 👨‍💻 All of my projects are available at [https://niazy-eladawy-portfolio.netlify.app/](https://niazy-eladawy-portfolio.netlify.app/)
 
