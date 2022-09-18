@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Php**
 
-- 👨‍💻 All of my projects are available at [https://niazy-eladawy-portfolio.netlify.app/](https://niazy-eladawy-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://niazy-eladawy-cv.vercel.app)
 
 - 💬 Ask me about **javascript,reactjs**
 
