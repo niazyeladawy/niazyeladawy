@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning redux toolkit with bookstore app**
 
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://niazy-eladawy-cv.vercel.app)
 
