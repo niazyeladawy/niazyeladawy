@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [(https://niazy-eladawy-cv.vercel.app](https://niazyeladawy.com)](https://niazyeladawy.com))
+- 👨‍💻 All of my projects are available at (https://niazyeladawy.com)](https://niazyeladawy.com))
 
 - 💬 Ask me about **javascript,reactjs**
 
