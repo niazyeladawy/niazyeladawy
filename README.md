@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [[https://niazy-eladawy-cv.vercel.app](https://niazyeladawy.com))
+- 👨‍💻 All of my projects are available at [(https://niazy-eladawy-cv.vercel.app](https://niazyeladawy.com)](https://niazyeladawy.com))
 
 - 💬 Ask me about **javascript,reactjs**
 
 - 📫 How to reach me **niazyadawy2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CmQlAGaBT-ORSjP1pepcyxbRzEF-F0Bd/view?usp=sharing](https://drive.google.com/file/d/1CmQlAGaBT-ORSjP1pepcyxbRzEF-F0Bd/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1CmQlAGaBT-ORSjP1pepcyxbRzEF-F0Bd/view?usp=sharing](https://drive.google.com/file/d/19Y0Mu1Djyhb9yKBBIh_CapxLM3c3JL4M/view?usp=share_link)](https://drive.google.com/file/d/19Y0Mu1Djyhb9yKBBIh_CapxLM3c3JL4M/view?usp=share_link)
 
 - ⚡ Fun fact **Gaming**
 
