@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **niazyadawy2@gmail.com**
 
+- 📱 My Phone number +201069505148 
+
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1CmQlAGaBT-ORSjP1pepcyxbRzEF-F0Bd/view?usp=sharing](https://drive.google.com/file/d/19Y0Mu1Djyhb9yKBBIh_CapxLM3c3JL4M/view?usp=share_link)](https://drive.google.com/file/d/19Y0Mu1Djyhb9yKBBIh_CapxLM3c3JL4M/view?usp=share_link)
 
 - ⚡ Fun fact **Gaming**
