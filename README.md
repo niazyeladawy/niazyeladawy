@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at (https://niazyeladawy.com)
+- 👨‍💻 All of my projects are available at (https://new-portfolio-iota-hazel.vercel.app/)
 
 - 💬 Ask me about **javascript,reactjs**
 
