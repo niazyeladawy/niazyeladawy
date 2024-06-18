@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niazyeladawy" alt="niazyeladawy" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NextJS 14**
 
 - 👨‍💻 All of my projects are available at (https://new-portfolio-iota-hazel.vercel.app/)
 
