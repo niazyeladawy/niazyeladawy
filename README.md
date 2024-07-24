@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Niazy Eladawy</h1>
-<h3 align="center">  frontend developer (Reactjs) </h3>
+<h3 align="center">  Frontend Developer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niazyeladawy&label=Profile%20views&color=0e75b6&style=flat" alt="niazyeladawy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niazyeladawy" alt="niazyeladawy" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at (https://new-portfolio-iota-hazel.vercel.app/)
-
-- 💬 Ask me about **javascript,reactjs**
 
 - 📫 How to reach me **niazyadawy2@gmail.com**
 
