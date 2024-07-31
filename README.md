@@ -21,8 +21,6 @@
 <p align="left">
 <a href="https://codepen.io/niazy-eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="niazy-eladawy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niazy-eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niazy-eladawy" height="30" width="40" /></a>
-<a href="https://fb.com/niazy.eladawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niazy.eladawy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucut3x58ppvozfmqnnhfstzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucut3x58ppvozfmqnnhfstzq" height="30" width="40" /></a>
 <a href="https://discord.gg/niazy#9449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niazy#9449" height="30" width="40" /></a>
 </p>
 
