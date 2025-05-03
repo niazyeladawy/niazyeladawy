@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niazyeladawy" alt="niazyeladawy" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at (https://new-portfolio-iota-hazel.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://www.niazyeladawy.com)
 
 - 📫 How to reach me **niazyadawy2@gmail.com**
-
-- 📱 My Phone number +971504717182
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1CmQlAGaBT-ORSjP1pepcyxbRzEF-F0Bd/view?usp=sharing](https://drive.google.com/file/d/19Y0Mu1Djyhb9yKBBIh_CapxLM3c3JL4M/view?usp=share_link)](https://drive.google.com/file/d/19Y0Mu1Djyhb9yKBBIh_CapxLM3c3JL4M/view?usp=share_link)
 
